@@ -1,0 +1,79 @@
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    padding: 10px;
+    background-image: url("rainbow.png");
+    color: #140244; 
+    padding: 10px;
+   } 
+  
+h1 {border: 3px solid rgb(145, 143, 143);
+    background-color: #f6d5ff ;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 36px;
+    border-radius: 25px }
+
+h2 {border: 3px solid rgb(145, 143, 143);
+    background-color: #f6d5ff ;
+    padding: 5px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+	font-size: 35px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 200;
+	line-height: 36px;
+    border-radius: 25px }
+
+.topnav a {float: left;
+        color:rgb(44, 43, 121);
+        text-align: center;
+        padding: 10px 10px;
+        text-decoration: none;
+        font-size: 28px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background:#D5EDFF;
+        border-radius: 25px;
+        border: 3px solid rgb(145, 143, 143);
+         }
+
+.topnav a:hover {background-color: #E0FFD5;
+            color: black;}
+
+.topnav a:active {background-color:#FFD5D5;
+            color: rgb(10, 1, 1);}
+
+     .navbar a {float: left;
+                color:rgb(44, 43, 121);
+                text-align: center;
+                padding: 10px 10px;
+                text-decoration: none;
+                font-size: 28px;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                background:#D5EDFF;
+                border-radius: 25px;
+                border: 3px solid rgb(145, 143, 143);
+                 }
+        
+        .navbar a:hover {background-color: #E0FFD5;
+                    color: black;}
+        
+        .navbar a:active {background-color:#FFD5D5;
+                    color: rgb(10, 1, 1);}
+
+.footer {float: left;
+         font-size: 14px;
+        line-height: 3px;
+        position: static;
+   left: 0;
+   bottom: 0;
+        
+       
+       }
+
+              
